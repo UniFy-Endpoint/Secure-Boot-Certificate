@@ -1,3 +1,5 @@
+[![Download Latest Release](https://img.shields.io/github/v/release/UniFy-Endpoint/Secure-Boot-Certificate?label=Download%20Latest&style=for-the-badge&logo=github)](https://github.com/UniFy-Endpoint/Secure-Boot-Certificate/releases/latest)
+
 # Secure Boot Windows UEFI CA 2023 — Intune Management Scripts
 
 Automates detection and remediation of the **Windows UEFI CA 2023** Secure Boot certificate update on Windows devices. Designed for Microsoft Intune but fully usable as local administrator scripts.
